@@ -19,7 +19,7 @@ We can see that the urban city type account for most of the data in total rides,
 
 ![Total weekly fares by type](https://github.com/YanLuong/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-
+----
 ### Summary
 
 
