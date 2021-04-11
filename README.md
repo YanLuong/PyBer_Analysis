@@ -6,7 +6,7 @@ The purpose of this analysis is to analyze ride sharing data on behalf of a ride
 
 ### Results
 
-!
+![Total weekly fares by type](https://github.com/YanLuong/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 ### Summary
