@@ -1,6 +1,6 @@
 # PyBer Analysis
 
-### Overview and purpose of the Analysis
+### Overview and purpose of the analysis.
 
 The purpose of this analysis is to analyze ride sharing data on behalf of a ride sharing app company called PyBer. The focus is on how the data such as fares varies between the three different city types (urban, suburban and rural) of interest. We will be using Pandas and Matplotlib to summarise and visualise the results. 
 
@@ -22,6 +22,6 @@ We can see that the urban city type account for most of the data in total rides,
 ----
 ### Summary
 
-This analysis has highlighted the disparaties between urban, suburban and rural areas. The distance of the ride, the purpose of it and the accessibility of using ride sharing must vary between the city types. This is also reflected in the average fare per ride and the average fare per driver. The rural areas account for the least number of total rides and also happen to have the higher average fare per ride and average fare per driver so one of the recommendations would be to lower the pricing in the rural city type areas as there is still room to move lower or consider a more flat rate type fare for longer journeys. This would also apply to suburban areas as the average fare per driver is quite a fair bit more than the average fare per ride unlike in urban city type where it is reversed. This difference suggests that the fare range is significantly larger than in suburban and rural areas. The first recommendation may help encourage demand for ride sharing in these areas. The second recommendation, would be to carry out further analysis and research in rural areas and investigate whether or what barriers exist to explain the lower uptake in rural areas as the current data is quite limited.
+This analysis has highlighted the disparaties between urban, suburban and rural areas. The distance of the ride, the purpose of it and the accessibility of using ride sharing must vary between the city types. This is also reflected in the average fare per ride and the average fare per driver. The rural areas account for the least number of total rides and also happen to have the higher average fare per ride and average fare per driver so one of the recommendations would be to lower the pricing in the rural city type areas as there is still room to move lower or consider a more flat rate type fare for longer journeys. This would also apply to suburban areas as the average fare per driver is quite a fair bit more than the average fare per ride unlike in urban city type where it is reversed. This difference suggests that the fare range is significantly larger than in suburban and rural areas. The first recommendation may help encourage demand for ride sharing in these areas. The second recommendation, would be to carry out further analysis and research in rural areas and investigate whether or what barriers exist to explain the lower uptake in rural areas as the current data is quite limited. The third recommendation is to run some advertising campaigns to increase awareness in the lower density areas such as rural city types.
 
 
